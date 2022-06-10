@@ -28,7 +28,7 @@ fixos = list(range(67, 99))
 count = 0
 
 
-print("Created by: SickAndTired\nhttps://github.com/S1ckAndTired/la-telefono")
+print("Created by: SickAndTired\nhttps://github.com/S1ckAndTired/la-telefona")
 print("                                                                     ")
 
 
