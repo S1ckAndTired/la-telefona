@@ -15,8 +15,3 @@ The script is get request based. If the web app you're testing has a function su
 
 #### Proof Of Concept
 
-<p align="center">
-<img src"https://user-images.githubusercontent.com/78124142/173193125-6dad8e87-2f68-42d7-a984-cd7b979ab1bc.gif" />
-</p>
-
-
